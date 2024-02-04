@@ -1,6 +1,6 @@
 # Image Slider Website
 
-Welcome to the Image Slider website! 🌟 Explore captivating moments and picturesque landscapes through our interactive image slider. Each slide takes you on a visual journey to different locations, from the serene NIT Hamirpur to the bustling streets of Gurgaon.
+Welcome to the Image Slider website! 🌟 Explore captivating moments and picturesque landscapes through interactive image slider. Each slide takes you on a visual journey to different locations.
 
 ## Features
 
