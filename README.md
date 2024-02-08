@@ -23,6 +23,10 @@ Welcome to the Image Slider website! 🌟 Explore captivating moments and pictur
 
 ## Also, I clicked all these pics. :)
 
+## Support
+
+If you find this project helpful and would like to support its development, consider [buying me a coffee!](https://www.buymeacoffee.com/ajay.gupta)
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions, bug reports, or want to add new features, please follow these steps:
