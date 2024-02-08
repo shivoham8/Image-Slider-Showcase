@@ -25,7 +25,7 @@ Welcome to the Image Slider website! 🌟 Explore captivating moments and pictur
 
 ## Support
 
-If you find this project helpful and would like to support its development, consider [buying me a coffee!!](https://www.buymeacoffee.com/ajay.gupta){:target="_blank"}
+If you find this project helpful and would like to support its development, consider [buying me a coffee!!](https://www.buymeacoffee.com/ajay.gupta)
 
 
 ## Contributing
